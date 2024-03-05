@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ... patience
 - 💞️ I’m looking to collaborate on ... world peace
 - 📫 How to reach me ... astral projection
-- 😄 Pronouns: ... none
-- ⚡ Fun fact: ... none
+- 😄 Pronouns: ... whatever you please
+- ⚡ Fun fact: ... they're all fun
 
 <!---
 cmedaas/cmedaas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
